@@ -6,7 +6,7 @@ int main()
 {//begin
     
     float nJejari, nLuas;
-    cout << "***** Luas Lingkaran *****" << endl;
+    cout << "***** Luas-Lingkaran *****" << endl;
     cout << "Masukkan Jejari = ";
     cin >> nJejari;
 
